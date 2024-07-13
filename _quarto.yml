@@ -7,13 +7,18 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - projects.qmd
+      - teaching.qmd
+      - talks.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+
+execute:
+  freeze: auto
 
 
 

@@ -1,7 +1,10 @@
 ---
-title: "papsti.github.io"
+title: "Irena Papst, PhD"
 ---
 
-This is a Quarto website.
+I'm a scientist specializing in infectious disease modelling.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+- I currently work as a mathematical modeller in the [National Microbiology Laboratory's Public Health Risk Sciences Division at the Public Health Agency of Canada](https://www.canada.ca/en/public-health/programs/national-microbiology-laboratory-for-professionals.html)
+- I am an adjunct professor in [McMaster University's Department of Mathematics & Statistics](https://math.mcmaster.ca), where I help supervise students
+- I develop [open-source scientific software](projects.html) and care deeply about [reproducible research](projects.html)
+- I have [taught several courses](teaching.html) at the undergraduate level
