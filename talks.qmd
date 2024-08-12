@@ -1,3 +1,64 @@
 ---
 title: "Talks"
+from: markdown+emoji
 ---
+
+:loudspeaker: **From scripts to pipelines with `targets`**
+<br>
+:round_pushpin: R Government and Public Sector Conference, Georgetown University, 2023-10-19
+<br>
+:link: [slides](https://papsti.github.io/talks/2023-10-19_targets.html)	| [recording](https://www.youtube.com/watch?v=kFnWc0y7Sq4)
+
+:loudspeaker: **Introduction to git and GitHub**
+<br>
+:round_pushpin: R User Group, Public Health Agency of Canada, 2023-08-23
+<br>
+:link: [slides](https://papsti.github.io/talks/2023-08-23_intro-to-github.html)	
+									
+:loudspeaker: **COVID-19 modelling in Ontario: past, present, future**
+<br>
+:round_pushpin: Toronto Data Workshop, University of Toronto, 2022-03-11
+<br>
+:link: [slides](https://papsti.github.io/talks/2022-03-11_TDW.html) | [recording](https://www.youtube.com/watch?v=Oxk5Dulhnpw)
+								
+:loudspeaker: **COVID-19 forecasting in the era of vaccines and variants**
+<br>
+:round_pushpin: Ecology, Evolution & Behaviour Seminar, McMaster University, 2021-09-29
+<br>
+:link: [slides ](https://papsti.github.io/talks/2021-09-29_EEB-seminar.html)
+							
+:loudspeaker: **COVID-19 forecasting in the era of vaccines and variants**	_(PhD defense talk)_
+<br>
+:round_pushpin: Cornell University, 2021-08-10
+<br>
+:link: [slides](https://papsti.github.io/talks/2021-08-10_phd-defense.html)
+
+:loudspeaker: **Mathematical modelling to inform Ontario's COVID-19 response: Successes, challenges, and lessons learned**
+<br>
+:round_pushpin: 2021 Canadian Applied and Industrial Mathematics Society Annual Meeting, Young Canadian Researchers - Contributions to Mathematical Modelling in Public Policy Session, University of Waterloo, 2021-06-21
+<br>
+:link: [slides](https://papsti.github.io/talks/2021-06-21_CAIMS.html)		
+
+:loudspeaker: **COVID-19: what's age got to do with it?**
+<br>
+:round_pushpin: Topics in Mathematical Biology - MATH 747, McMaster University, 2020-11-26
+<br>
+:link: [slides](https://papsti.github.io/talks/2020-11-26_MATH747.html)	
+
+:loudspeaker: **From pandas to dplyr: R for Python users in data science**
+<br>
+:round_pushpin: Introduction to Data Science - INFO 2950, Cornell University, 2020-12-10
+<br>
+:link: [notebook](https://papsti.github.io/talks/2020-12-10_INFO2950.html)
+
+:loudspeaker: **Can seasonal influenza be eradicated under voluntary vaccination?**
+<br>
+:round_pushpin:	Applied Math Days, Rensselaer Polytechnic Institute, 2018-04-06
+<br>
+:link: [slides](https://papsti.github.io/talks/2018-04-06_AMD.pdf)	
+							
+:loudspeaker: **Fear (but not loathing) in epidemics**
+<br>
+:round_pushpin: Current Research in Engineering, Science & Technology, McMaster University, 2015-03-07
+<br>
+:link: [slides](https://papsti.github.io/talks/2015-03-07_CREST.pdf)							

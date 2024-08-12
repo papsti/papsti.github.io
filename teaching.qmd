@@ -1,3 +1,28 @@
 ---
 title: "Teaching"
+from: markdown+emoji
 ---
+
+I've taught and helped teach several courses---here are the most recent ones.
+
+# :apple: Short Course on Forecasting for Decision-Making
+
+:round_pushpin: Canadian Ecological Forecasting Initiative, Fields Institute (Jul 2023)
+
+:information_source: I was one of four instructors for [this short course](https://github.com/kbbodner/cefi_shortcourse_students_2023) of roughly 50 participants. I prepared an [introduction to modelling lecture](https://youtu.be/VDgEQZah7dE?si=P6CiBAkgbIuKCdLS), materials for a COVID-19 forecasting case study, and a git/GitHub primer.
+
+# :apple: Introduction to Mathematical Modelling
+
+:round_pushpin: Department of Mathematics and Statistics, McMaster University (Sep-Dec 2022)
+
+:information_source: I was the sole instructor for this course of about 150 students, where we covered the fundamentals of mathematical modelling. I refined the curriculum, wrote and delivered the lectures, and graded assignments and projects with a small team of graders.
+
+:white_check_mark: Students learned to translate complex, real-world systems into the language of mathematics, in order to perform careful analyses and draw useful conclusions. We covered deterministic models (both discrete- and continuous-time), as well as stochastic models. Students gained experience programming in Python, in order to simulate models using computational methods, create informative data visualizations, and conduct reproducible research. The course culminated in an end-of-term group modelling project, which we built up iteratively through the term.
+
+# :apple: Introduction to Data Science
+
+:round_pushpin: Department of Information Science, Cornell University (Feb 2020 - Dec 2020)
+
+:information_source: I helped teach two iterations of this couse as a teaching assistant. I was head teaching assistant for the Fall 2020 term, where I had additional responsibilities developing the course curriculum and materials, administering the course, and organizing the large (~20 person) instructional team. In Spring 2020, I led the charge in compiling an extensive course handbook to orient students when the course suddenly transitioned to online learning due to the COVID-19 pandemic.
+
+:white_check_mark: Students learned the fundamentals of data science, covering related topics in statistics, probability, and computer science. Topics included discrete probability, Bayesian methods, graph theory, power law distributions, Markov models, and hidden Markov models. We covered examples of data science from genomics, social networks, natural language processing, and signal processing. Students performed coursework using Python. The course culminated in a large data science project.

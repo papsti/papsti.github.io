@@ -1,21 +1,18 @@
 ---
 title: "Projects"
+from: markdown+emoji
 ---
 
 Here are some recent projects I've worked on.
 
-# `{ern}`
+# :gift: `{ern}`
 
 I helped develop an **R package** that estimates the time-varying **reproduction number** while taking into account the quirks of **real-world infectious disease data**. 
 
-[paper](https://doi.org/10.1371/journal.pone.0305550)
+:link: [paper](https://doi.org/10.1371/journal.pone.0305550) | [repo](https://github.com/phac-nml-phrsd/ern)
 
-[repo](https://github.com/phac-nml-phrsd/ern)
-
-# `{EPACmodel}`
+# :gift: `{EPACmodel}`
 
 I developed an **R package** encoding a **generic compartmental disease model** as a starter to create more complex, **bespoke** models, in order to make my work at the Public Health Agency of Canada more **efficient** and **reproducible**.
 
-[website](https://phac-nml-phrsd.github.io/EPACmodel/)
-
-[repo](https://github.com/phac-nml-phrsd/EPACmodel/)
+:link: [website](https://phac-nml-phrsd.github.io/EPACmodel/) | [repo](https://github.com/phac-nml-phrsd/EPACmodel/)

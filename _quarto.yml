@@ -10,6 +10,11 @@ website:
       - projects.qmd
       - teaching.qmd
       - talks.qmd
+    right:
+      - href: cv.html
+        text: CV
+      - href: resume.html
+        text: Resumé
 
 format:
   html:
