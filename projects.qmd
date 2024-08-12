@@ -5,13 +5,13 @@ from: markdown+emoji
 
 Here are some recent projects I've worked on.
 
-# :gift: `{ern}`
+# :hammer: `{ern}`
 
 I helped develop an **R package** that estimates the time-varying **reproduction number** while taking into account the quirks of **real-world infectious disease data**. 
 
 :link: [paper](https://doi.org/10.1371/journal.pone.0305550) | [repo](https://github.com/phac-nml-phrsd/ern)
 
-# :gift: `{EPACmodel}`
+# :hammer: `{EPACmodel}`
 
 I developed an **R package** encoding a **generic compartmental disease model** as a starter to create more complex, **bespoke** models, in order to make my work at the Public Health Agency of Canada more **efficient** and **reproducible**.
 

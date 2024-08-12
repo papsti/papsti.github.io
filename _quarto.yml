@@ -5,25 +5,23 @@ website:
   title: "Irena Papst, PhD"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - projects.qmd
-      - teaching.qmd
-      - talks.qmd
+      - href: projects.qmd
+        text: ":hammer: Projects"
+      - href: teaching.qmd
+        text: ":apple: Teaching"
+      - href: talks.qmd
+        text: ":loudspeaker: Talks"
     right:
       - href: cv.html
         text: CV
       - href: resume.html
         text: Resumé
       - href: https://github.com/papsti
-        text: GitHub
+        text: "GitHub"
 
 format:
   html:
-    theme: cosmo
-    linkcolor: "#BD3829"
-    monocolor: "#BD3829"
-    css: styles.css
+    theme: theme.scss
     toc: true
 
 execute:
