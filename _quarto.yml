@@ -19,6 +19,8 @@ website:
 format:
   html:
     theme: cosmo
+    linkcolor: "#BD3829"
+    monocolor: "#BD3829"
     css: styles.css
     toc: true
 
