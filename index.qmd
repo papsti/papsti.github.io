@@ -1,22 +1,29 @@
 ---
-title: "Irena Papst, PhD"
 from: markdown+emoji
+page-layout: custom
 ---
 
-<!-- :::: {.columns}
-::: {.column width="45%" align-content="right"} -->
+<br>
+<br>
+
+::: {.grid}
+
+::: {.g-col-4}
 ![](assets/tan-and-red.jpg){width=300}
-<!-- :::
 
-::: {.column width="55%"} -->
+:wave: **I'm a scientist specializing in infectious disease modelling**
+:::
 
-:wave: **I'm a scientist specializing in infectious disease modelling
-**
-
-:chart_with_upwards_trend: I currently work as a **mathematical modeller** in the [National Microbiology Laboratory's Public Health Risk Sciences Division at the Public Health Agency of Canada](https://www.canada.ca/en/public-health/programs/national-microbiology-laboratory-for-professionals.html)
+::: {.g-col-8}
+:chart_with_upwards_trend: I currently work as an **infectious disease modeller** in the Modelling Hub within the Science and Policy Integration Branch of the [Public Health Agency of Canada](https://health.canada.ca/index-phac-aspc.php)
 <br>
 :school: I am an **adjunct professor** in [McMaster University's Department of Mathematics & Statistics](https://math.mcmaster.ca), where I help supervise students
 <br>
 :hammer: I develop [open-source scientific software](projects.html) and care deeply about [reproducible research](projects.html)
 <br>
 :apple: I have [taught several courses](teaching.html) at the undergraduate level
+<br>
+:yarn: I enjoy making things, baking things, solving puzzles, and taking public transit
+:::
+
+:::

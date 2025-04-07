@@ -1,7 +1,13 @@
 ---
-title: "Talks"
+title: "Selected talks"
 from: markdown+emoji
 ---
+
+:loudspeaker: **Manage your analyses with ease using `{targets}`**
+<br>
+:round_pushpin: R-Ladies Philly, 2025-01-22
+<br>
+:link: [slides](https://papsti.github.io/talks/2025-01-22_targets.html)	| [recording](https://youtu.be/OCFAYFeOQ7w?si=uKjxZosDLUVcayxg)
 
 :loudspeaker: **From scripts to pipelines with `targets`**
 <br>

@@ -1,9 +1,8 @@
 ---
-title: "Teaching"
+title: "Recent teaching"
 from: markdown+emoji
 ---
 
-I've taught and helped teach several courses---here are the most recent ones.
 
 # :apple: Short Course on Forecasting for Decision-Making
 

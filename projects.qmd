@@ -1,9 +1,7 @@
 ---
-title: "Projects"
+title: "Recent projects"
 from: markdown+emoji
 ---
-
-Here are some recent projects I've worked on.
 
 # :hammer: `{ern}`
 

@@ -16,8 +16,12 @@ website:
         text: CV
       - href: resume.html
         text: Resumé
+      - href: https://bsky.app/profile/papsti.bsky.social
+        text: Bluesky
       - href: https://github.com/papsti
-        text: "GitHub"
+        text: GitHub
+      - href: https://www.linkedin.com/in/irenapapst/
+        text: LinkedIn
 
 format:
   html:
