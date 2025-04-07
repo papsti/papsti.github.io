@@ -4,20 +4,34 @@ page-layout: custom
 ---
 
 <br>
-<br>
 
 ::: {.grid}
 
-::: {.g-col-4}
-![](assets/tan-and-red.jpg){width=300}
-
-:wave: **I'm a scientist specializing in infectious disease modelling**
+:::{.g-col-2}
 :::
 
-::: {.g-col-8}
-:chart_with_upwards_trend: I currently work as an **infectious disease modeller** in the Modelling Hub within the Science and Policy Integration Branch of the [Public Health Agency of Canada](https://health.canada.ca/index-phac-aspc.php)
+::: {.g-col-4}
+![](assets/tan-and-red.jpg){width=300}
+:::
+
+::: {.g-col-4}
+:::{.text-feat}
 <br>
-:school: I am an **adjunct professor** in [McMaster University's Department of Mathematics & Statistics](https://math.mcmaster.ca), where I help supervise students
+:wave: **I'm Irena**,
+<br>
+a scientist specializing in infectious disease modelling
+:::
+:::
+:::
+
+::: {.grid}
+:::{.g-col-2}
+:::
+
+:::{.g-col-8}
+:chart_with_upwards_trend: I currently work in the Modelling Hub within the Science and Policy Integration Branch of the [Public Health Agency of Canada](https://health.canada.ca/index-phac-aspc.php)
+<br>
+:school: I am an adjunct professor in [McMaster University's Department of Mathematics & Statistics](https://math.mcmaster.ca), where I help supervise students
 <br>
 :hammer: I develop [open-source scientific software](projects.html) and care deeply about [reproducible research](projects.html)
 <br>
@@ -25,5 +39,4 @@ page-layout: custom
 <br>
 :yarn: I enjoy making things, baking things, solving puzzles, and taking public transit
 :::
-
 :::
