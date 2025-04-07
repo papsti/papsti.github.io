@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.56">
+<meta name="generator" content="quarto-1.6.43">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Talks – Irena Papst, PhD</title>
+<title>Selected talks – Irena Papst, PhD</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-d4d76bf8491c20bad77d141916dc28e1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-9684bb43c4459b59ff90ed5aae918cc7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -110,8 +110,16 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Resumé</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="https://bsky.app/profile/papsti.bsky.social"> 
+<span class="menu-text">Bluesky</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="https://github.com/papsti"> 
 <span class="menu-text">GitHub</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.linkedin.com/in/irenapapst/"> 
+<span class="menu-text">LinkedIn</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -132,7 +140,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Talks</h1>
+<h1 class="title">Selected talks</h1>
 </div>
 
 
@@ -149,6 +157,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p><span class="emoji" data-emoji="loudspeaker">📢</span> <strong>Manage your analyses with ease using <code>{targets}</code></strong> <br> <span class="emoji" data-emoji="round_pushpin">📍</span> R-Ladies Philly, 2025-01-22 <br> <span class="emoji" data-emoji="link">🔗</span> <a href="https://papsti.github.io/talks/2025-01-22_targets.html">slides</a> | <a href="https://youtu.be/OCFAYFeOQ7w?si=uKjxZosDLUVcayxg">recording</a></p>
 <p><span class="emoji" data-emoji="loudspeaker">📢</span> <strong>From scripts to pipelines with <code>targets</code></strong> <br> <span class="emoji" data-emoji="round_pushpin">📍</span> R Government and Public Sector Conference, Georgetown University, 2023-10-19 <br> <span class="emoji" data-emoji="link">🔗</span> <a href="https://papsti.github.io/talks/2023-10-19_targets.html">slides</a> | <a href="https://www.youtube.com/watch?v=kFnWc0y7Sq4">recording</a></p>
 <p><span class="emoji" data-emoji="loudspeaker">📢</span> <strong>Introduction to git and GitHub</strong> <br> <span class="emoji" data-emoji="round_pushpin">📍</span> R User Group, Public Health Agency of Canada, 2023-08-23 <br> <span class="emoji" data-emoji="link">🔗</span> <a href="https://papsti.github.io/talks/2023-08-23_intro-to-github.html">slides</a></p>
 <p><span class="emoji" data-emoji="loudspeaker">📢</span> <strong>COVID-19 modelling in Ontario: past, present, future</strong> <br> <span class="emoji" data-emoji="round_pushpin">📍</span> Toronto Data Workshop, University of Toronto, 2022-03-11 <br> <span class="emoji" data-emoji="link">🔗</span> <a href="https://papsti.github.io/talks/2022-03-11_TDW.html">slides</a> | <a href="https://www.youtube.com/watch?v=Oxk5Dulhnpw">recording</a></p>
@@ -245,8 +254,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -357,7 +364,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
