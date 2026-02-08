@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Recent projects",
     "section": "",
-    "text": "🔨 {ern}\nI helped develop an R package that estimates the time-varying reproduction number while taking into account the quirks of real-world infectious disease data.\n🔗 paper | repo\n\n\n🔨 {EPACmodel}\nI developed an R package encoding a generic compartmental disease model as a starter to create more complex, bespoke models, in order to make my work at the Public Health Agency of Canada more efficient and reproducible.\n🔗 website | repo"
+    "text": "🔨 {EPACmodel}\nI developed an R package encoding a generic compartmental disease model as a starter to create more complex, bespoke models, in order to make my work at the Public Health Agency of Canada more efficient and reproducible.\n🔗 website | repo\n\n\n🔨 {ern}\nI helped develop an R package that estimates the time-varying reproduction number while taking into account the quirks of real-world infectious disease data.\n🔗 paper | repo"
   },
   {
     "objectID": "talks.html",
