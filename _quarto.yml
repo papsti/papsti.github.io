@@ -11,17 +11,8 @@ website:
         text: ":apple: Teaching"
       - href: talks.qmd
         text: ":loudspeaker: Talks"
-    right:
-      - href: resume.html
-        text: Resumé
-      - href: cv.html
-        text: CV
-      - href: https://bsky.app/profile/papsti.bsky.social
-        text: Bluesky
-      - href: https://github.com/papsti
-        text: GitHub
-      - href: https://www.linkedin.com/in/irenapapst/
-        text: LinkedIn
+      - href: community.qmd
+        text: ":handshake: Community"
 
 format:
   html:

@@ -1,0 +1,19 @@
+---
+title: "Recent community engagement"
+from: markdown+emoji
+---
+
+# :handshake: Coding Community of Practice Creator and Organizer
+_Oct 2023 - Present_
+
+I created a Coding Community of Practice within the Public Health Agency of Canada's Modelling Hub to facilitate knowledge-sharing around scientific computing tools and infrastructure. We maintain a common documentation library for internally-available computing tools, as well as a best practices guide for scientific software development.
+
+# :handshake: We Are R-Ladies Rotating Curator
+_Apr 2025_
+
+I was a [rotating curator](https://guide.rladies.org/rocur/about/) for the [@weare.rladies.org](https://bsky.app/profile/weare.rladies.org) BlueSky account. I capped off my curation week with a [summary thread](https://bsky.app/profile/weare.rladies.org/post/3lmmvazlrek2q) of the content I shared. Threads included computing and data science topics, such as: 
+
+- [integrated development environments](https://bsky.app/profile/did:plc:yd3s3toqp7gqq3gvdygti5w7/post/3lmb44cp7e22p)
+- [version control](https://bsky.app/profile/weare.rladies.org/post/3lmcfpd4n2c2g),
+- [code reproducibility](https://bsky.app/profile/weare.rladies.org/post/,3lmezubasmk2g), specifically using [`{targets}`](https://bsky.app/profile/weare.rladies.org/post/3lmg75l4onk2r) for pipelining analyses, [`{config}`](https://bsky.app/profile/weare.rladies.org/post/3lmgblrc5ck2h) for defining environment- and context-specific code variables, and [{`renv`}](https://bsky.app/profile/weare.rladies.org/post/3lmgejgs5qc2a) for virtual environment management,
+- [distinguishing between internal variables and data labels](https://bsky.app/profile/weare.rladies.org/post/3lmlfwnczzs2v).
