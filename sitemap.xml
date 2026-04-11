@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://papsti.github.io/projects.html</loc>
-    <lastmod>2026-02-08T16:15:40.291Z</lastmod>
-  </url>
-  <url>
     <loc>https://papsti.github.io/talks.html</loc>
-    <lastmod>2026-02-08T16:15:40.324Z</lastmod>
+    <lastmod>2026-04-11T16:36:45.119Z</lastmod>
   </url>
   <url>
     <loc>https://papsti.github.io/index.html</loc>
-    <lastmod>2026-02-08T16:15:40.291Z</lastmod>
+    <lastmod>2026-04-11T16:36:45.084Z</lastmod>
+  </url>
+  <url>
+    <loc>https://papsti.github.io/software.html</loc>
+    <lastmod>2026-04-11T16:36:45.119Z</lastmod>
   </url>
   <url>
     <loc>https://papsti.github.io/teaching.html</loc>
-    <lastmod>2026-02-08T16:15:40.324Z</lastmod>
+    <lastmod>2026-04-11T16:36:45.119Z</lastmod>
+  </url>
+  <url>
+    <loc>https://papsti.github.io/community.html</loc>
+    <lastmod>2026-04-11T16:36:45.049Z</lastmod>
   </url>
 </urlset>
