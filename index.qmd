@@ -21,6 +21,9 @@ page-layout: custom
 <br>
 a scientist specializing in infectious disease modelling
 :::
+[Resumé](resume.html) - [CV](cv.html) - [Google Scholar](https://scholar.google.ca/citations?user=Ar7uNbwAAAAJ&hl=en&oi=ao)
+
+[GitHub](https://github.com/papsti) - [LinkedIn](https://www.linkedin.com/in/irenapapst/) - [BlueSky](https://bsky.app/profile/papsti.bsky.social)
 :::
 :::
 
