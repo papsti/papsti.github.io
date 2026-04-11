@@ -1,0 +1,26 @@
+---
+title: "Selected software"
+from: markdown+emoji
+---
+
+My public-facing software projects and contributions can be found on [GitHub](https://github.com/papsti).
+
+# :hammer: `{EPACmodel}`
+
+I developed an **R package** encoding a **generic compartmental disease model** as a starter to create more complex, **bespoke** models, in order to make my work at the Public Health Agency of Canada more **efficient** and **reproducible**.
+
+:link: [website](https://phac-modelling-hub.github.io/EPACmodel/) | [repo](https://github.com/phac-modelling-hub/EPACmodel/)
+
+Companion packages: [`{EPACmodelpiper}`](https://github.com/phac-modelling-hub/EPACmodelpiper), [`{tidygenmod}`](https://github.com/phac-modelling-hub/tidygenmod)
+
+# :hammer: `{casteval}`
+
+I led the development of an **R package** to facilitate the **evaluation of timeseries forecasts** to make regular **model performance evaluation** easier on my team at the Public Health Agency of Canada.
+
+:link: [website](https://phac-nml-phrsd.github.io/casteval/) | [repo](https://github.com/phac-nml-phrsd/casteval)
+
+# :hammer: `{ern}`
+
+I helped develop an **R package** that estimates the time-varying **reproduction number** while taking into account the quirks of **real-world infectious disease data**. 
+
+:link: [paper](https://doi.org/10.1371/journal.pone.0305550) | [repo](https://github.com/phac-nml-phrsd/ern)

@@ -5,8 +5,8 @@ website:
   title: "Irena Papst, PhD"
   navbar:
     left:
-      - href: projects.qmd
-        text: ":hammer: Projects"
+      - href: software.qmd
+        text: ":hammer: Software"
       - href: teaching.qmd
         text: ":apple: Teaching"
       - href: talks.qmd
