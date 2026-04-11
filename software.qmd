@@ -3,7 +3,7 @@ title: "Selected software"
 from: markdown+emoji
 ---
 
-My public-facing software projects and contributions can be found on [GitHub](https://github.com/papsti).
+My public-facing software projects and contributions can be found on [GitHub](https://github.com/papsti). I have also led the development of a guide to [best practices for scientific software development](https://phac-modelling-hub.github.io/dev-practices/) geared at scientists undertaking significant coding to support their work. 
 
 # :hammer: `{EPACmodel}`
 
